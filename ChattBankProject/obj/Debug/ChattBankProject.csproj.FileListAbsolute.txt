@@ -1,0 +1,16 @@
+c:\users\sara\documents\visual studio 2013\Projects\ChattBankProject\ChattBankProject\bin\Debug\ChattBankProject.exe.config
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\bin\Debug\ChattBankProject.exe
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\bin\Debug\ChattBankProject.pdb
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.adminAddDeleteAcct.resources
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.adminLogIn.resources
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.customerForm.resources
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.customerLogIn.resources
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.depositWithdraw.resources
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.ChattBankForm.resources
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.Properties.Resources.resources
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.csproj.GenerateResource.Cache
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.exe
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.pdb
+C:\Users\Sara\documents\visual studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.createCustAccount.resources
+C:\Users\Sara\documents\visual studio 2013\Projects\ChattBankProject\ChattBankProject\obj\Debug\ChattBankProject.createNewCustomer.resources
